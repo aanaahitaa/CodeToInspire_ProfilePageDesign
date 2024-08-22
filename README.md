@@ -3,7 +3,11 @@ This Flutter project demonstrates a modern profile page design, developed as par
 
 The following image is a mockup provided for the assignment, showcasing the intended design:
 
-![Profile Page Mockup](https://cdn6.aptoide.com/imgs/3/a/a/3aa63e17967be028411cba853348ed20_screen.png)
+<img src="https://cdn6.aptoide.com/imgs/3/a/a/3aa63e17967be028411cba853348ed20_screen.png" alt="Profile Page Mockup" width="100"/>
+
+Additionally, here is a screenshot of the final version of the app I designed:
+
+<img src="https://raw.githubusercontent.com/aanaahitaa/CodeToInspire_ProfilePageDesign/master/Screenshot_ProfilePageDesign.png" alt="Final App Screenshot" width="100"/>
 
 # Features
 - **Profile Header:** Showcases a profile picture, name, and bio against a stylish gradient background.
